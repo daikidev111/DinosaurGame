@@ -1,4 +1,4 @@
-# DinosaurGame
+# What is this game?
 
 The developed game allows the player to move across 2 different maps, use a vending machine to purchase items, feed dinosaurs (if the player has an item that they can feed to the dinosaur in their inventory), kill dinosaurs and collect their corpses.
 
